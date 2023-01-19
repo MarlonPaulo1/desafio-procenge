@@ -1,0 +1,17 @@
+{
+    "cursos":[{
+        "id": 1,
+        "nome": "Angular",
+        "instrutor": "Genival",
+        "local": "Softex",
+        "carga-horaria": 36,
+        "data-inicio": "03/02/2020"
+    }, {
+        "id": 2,
+        "nome": "HTML",
+        "instrutor": "Marlon",
+        "local": "Softex",
+        "carga-horaria": 20,
+        "data-inicio": "03/02/2020"
+    }]
+}
